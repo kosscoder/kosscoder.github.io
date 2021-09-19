@@ -1,8 +1,0 @@
-.idea/**/*
-*.iml
-*.xml
-.vscode/**/*
-.DS_Store
-node_modules
-thumbs.db
-.dist/**/*
